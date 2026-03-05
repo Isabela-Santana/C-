@@ -1,0 +1,11 @@
+C:\Users\sisab\OneDrive\Desktop\c#.net\c#.net.Common\bin\Debug\net10.0\c#.net.Common.deps.json
+C:\Users\sisab\OneDrive\Desktop\c#.net\c#.net.Common\bin\Debug\net10.0\c#.net.Common.dll
+C:\Users\sisab\OneDrive\Desktop\c#.net\c#.net.Common\bin\Debug\net10.0\c#.net.Common.pdb
+C:\Users\sisab\OneDrive\Desktop\c#.net\c#.net.Common\obj\Debug\net10.0\c#.net.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sisab\OneDrive\Desktop\c#.net\c#.net.Common\obj\Debug\net10.0\c#.net.Common.AssemblyInfoInputs.cache
+C:\Users\sisab\OneDrive\Desktop\c#.net\c#.net.Common\obj\Debug\net10.0\c#.net.Common.AssemblyInfo.cs
+C:\Users\sisab\OneDrive\Desktop\c#.net\c#.net.Common\obj\Debug\net10.0\c#.net.Common.csproj.CoreCompileInputs.cache
+C:\Users\sisab\OneDrive\Desktop\c#.net\c#.net.Common\obj\Debug\net10.0\c#.net.Common.dll
+C:\Users\sisab\OneDrive\Desktop\c#.net\c#.net.Common\obj\Debug\net10.0\refint\c#.net.Common.dll
+C:\Users\sisab\OneDrive\Desktop\c#.net\c#.net.Common\obj\Debug\net10.0\c#.net.Common.pdb
+C:\Users\sisab\OneDrive\Desktop\c#.net\c#.net.Common\obj\Debug\net10.0\ref\c#.net.Common.dll

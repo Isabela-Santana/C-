@@ -1,0 +1,14 @@
+C:\Users\sisab\OneDrive\Desktop\ExemploFundamentos\obj\Debug\net10.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sisab\OneDrive\Desktop\ExemploFundamentos\obj\Debug\net10.0\ExemploFundamentos.AssemblyInfoInputs.cache
+C:\Users\sisab\OneDrive\Desktop\ExemploFundamentos\obj\Debug\net10.0\ExemploFundamentos.AssemblyInfo.cs
+C:\Users\sisab\OneDrive\Desktop\ExemploFundamentos\obj\Debug\net10.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\sisab\OneDrive\Desktop\ExemploFundamentos\bin\Debug\net10.0\ExemploFundamentos.exe
+C:\Users\sisab\OneDrive\Desktop\ExemploFundamentos\bin\Debug\net10.0\ExemploFundamentos.deps.json
+C:\Users\sisab\OneDrive\Desktop\ExemploFundamentos\bin\Debug\net10.0\ExemploFundamentos.runtimeconfig.json
+C:\Users\sisab\OneDrive\Desktop\ExemploFundamentos\bin\Debug\net10.0\ExemploFundamentos.dll
+C:\Users\sisab\OneDrive\Desktop\ExemploFundamentos\bin\Debug\net10.0\ExemploFundamentos.pdb
+C:\Users\sisab\OneDrive\Desktop\ExemploFundamentos\obj\Debug\net10.0\ExemploFundamentos.dll
+C:\Users\sisab\OneDrive\Desktop\ExemploFundamentos\obj\Debug\net10.0\refint\ExemploFundamentos.dll
+C:\Users\sisab\OneDrive\Desktop\ExemploFundamentos\obj\Debug\net10.0\ExemploFundamentos.pdb
+C:\Users\sisab\OneDrive\Desktop\ExemploFundamentos\obj\Debug\net10.0\ExemploFundamentos.genruntimeconfig.cache
+C:\Users\sisab\OneDrive\Desktop\ExemploFundamentos\obj\Debug\net10.0\ref\ExemploFundamentos.dll

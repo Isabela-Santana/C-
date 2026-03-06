@@ -1,0 +1,38 @@
+using System;
+using System.Collections.Generic;
+
+class Program
+{
+    static void Main()
+    {
+        // Lê uma linha contendo as tarefas separadas por espaço
+        string input = Console.ReadLine();
+
+        // Converte a entrada em uma lista de tarefas
+        List<string> tarefas = new List<string>(input.Split(' '));
+
+        List<string> pendentes = new List<string>();
+        List<string> feitas = new List<string>();
+
+        // Percorre as tarefas separando
+        foreach (string tarefa in tarefas)
+        {
+            if (tarefa == "feito")
+            {
+                feitas.Add(tarefa);
+            }
+            else
+            {
+                pendentes.Add(tarefa);
+            }
+        }
+
+        // Junta primeiro as pendentes e depois as feitas
+        List<string> resultado = new List<string>();
+        resultado.AddRange(pendentes);
+        resultado.AddRange(feitas);
+
+        // Imprime as tarefas reordenadas
+        Console.WriteLine(string.Join(" ", resultado));
+    }
+}

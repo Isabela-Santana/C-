@@ -1,0 +1,14 @@
+C:\Users\sisab\OneDrive\Desktop\ExemploPoo\bin\Debug\net10.0\ExemploPoo.exe
+C:\Users\sisab\OneDrive\Desktop\ExemploPoo\bin\Debug\net10.0\ExemploPoo.deps.json
+C:\Users\sisab\OneDrive\Desktop\ExemploPoo\bin\Debug\net10.0\ExemploPoo.runtimeconfig.json
+C:\Users\sisab\OneDrive\Desktop\ExemploPoo\bin\Debug\net10.0\ExemploPoo.dll
+C:\Users\sisab\OneDrive\Desktop\ExemploPoo\bin\Debug\net10.0\ExemploPoo.pdb
+C:\Users\sisab\OneDrive\Desktop\ExemploPoo\obj\Debug\net10.0\ExemploPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sisab\OneDrive\Desktop\ExemploPoo\obj\Debug\net10.0\ExemploPoo.AssemblyInfoInputs.cache
+C:\Users\sisab\OneDrive\Desktop\ExemploPoo\obj\Debug\net10.0\ExemploPoo.AssemblyInfo.cs
+C:\Users\sisab\OneDrive\Desktop\ExemploPoo\obj\Debug\net10.0\ExemploPoo.csproj.CoreCompileInputs.cache
+C:\Users\sisab\OneDrive\Desktop\ExemploPoo\obj\Debug\net10.0\ExemploPoo.dll
+C:\Users\sisab\OneDrive\Desktop\ExemploPoo\obj\Debug\net10.0\refint\ExemploPoo.dll
+C:\Users\sisab\OneDrive\Desktop\ExemploPoo\obj\Debug\net10.0\ExemploPoo.pdb
+C:\Users\sisab\OneDrive\Desktop\ExemploPoo\obj\Debug\net10.0\ExemploPoo.genruntimeconfig.cache
+C:\Users\sisab\OneDrive\Desktop\ExemploPoo\obj\Debug\net10.0\ref\ExemploPoo.dll

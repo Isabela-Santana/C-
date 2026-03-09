@@ -1,0 +1,33 @@
+using System;
+
+// Classe que deve gerar a saudação personalizada
+public class Saudacao
+{
+    private readonly string nomeCliente;
+
+    public Saudacao(string nomeCliente)
+    {
+        this.nomeCliente = nomeCliente;
+    }
+
+    public string ObterMensagem()
+    {
+        // Implementação utilizando interpolação de strings ($"")
+        return $"Bem-vindo, {nomeCliente}!";
+    }
+}
+
+public class Program
+{
+    public static void Main()
+    {
+        // Entrada: lê o nome do cliente da entrada padrão
+        string nome = Console.ReadLine();
+
+        // Instancia a Saudacao passando o nome informado
+        Saudacao s = new Saudacao(nome);
+
+        // Saída: imprime a mensagem personalizada
+        Console.WriteLine(s.ObterMensagem());
+    }
+}

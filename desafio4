@@ -1,0 +1,37 @@
+using System;
+
+namespace ChatBotNET
+{
+    // Classe responsável por armazenar e responder mensagens de saudação
+    class Mensagem
+    {
+        private string saudacao;
+
+        public Mensagem(string saudacao)
+        {
+            this.saudacao = saudacao;
+        }
+
+        // Método que personaliza a resposta do bot conforme o enunciado
+        public string responder()
+        {
+            // Retorna a string formatada com o prefixo do BOT e a frase original
+            return $"BOT: Obrigado pela mensagem: {this.saudacao}";
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Lê a frase enviada pelo cliente via stdin (entrada padrão)
+            string entrada = Console.ReadLine();
+            
+            // Instancia a classe Mensagem para processar a entrada recebida
+            Mensagem mensagem = new Mensagem(entrada);
+
+            // Imprime a resposta gerada pelo método responder
+            Console.WriteLine(mensagem.responder());
+        }
+    }
+}

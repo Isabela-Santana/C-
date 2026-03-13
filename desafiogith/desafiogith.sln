@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desafiogith", "desafiogith.csproj", "{76E844AB-2CB1-7ACA-0B75-FCF4DBC8E2DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76E844AB-2CB1-7ACA-0B75-FCF4DBC8E2DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76E844AB-2CB1-7ACA-0B75-FCF4DBC8E2DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76E844AB-2CB1-7ACA-0B75-FCF4DBC8E2DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76E844AB-2CB1-7ACA-0B75-FCF4DBC8E2DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A98763B-B0E8-4EED-A924-8F302AB8FE3B}
+	EndGlobalSection
+EndGlobal
